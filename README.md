@@ -37,3 +37,16 @@ function myFunction(p1, p2) {
 ```
 ---
 :smile_cat:
+---
+**asterisks** or **underscore**
+
+**asterisks and** ***underscore***
+
+~~scratch this~~
+
+ * red
+
+* green
+
+* blue
+
