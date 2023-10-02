@@ -18,6 +18,6 @@ gantt
 ```
 # pert
 
-![1](files via upload)
+![1](picture.png)
 
 # 關鍵路徑
