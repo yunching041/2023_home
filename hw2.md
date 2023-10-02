@@ -18,6 +18,6 @@ gantt
 ```
 # pert
 
-![1](截圖 2023-10-02 下午3.50.47.png)
+![1](files via upload)
 
 # 關鍵路徑
